@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_digit_span",
+    "alt_name": "Digit Span",
+    "description": "Subject see a series of single digit numbers presented in succession. After all of the numbers are presented, subjects must recall the digits presented in order (responding via keypress)",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_digit_span.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "7",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "tsk_4a57abb949a0d"} ],
+    "reference": "http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.157.2.275"
+}
